@@ -28,7 +28,6 @@ module.exports = {
     'react-hooks/exhaustive-deps': 'warn',
     indent: ['error', 2, { SwitchCase: 1 }],
     'comma-dangle': ['error', 'always-multiline'],
-    'linebreak-style': ['error', 'unix'],
     quotes: ['error', 'single'],
     semi: ['error', 'always'],
     'no-console': ['warn', { allow: ['info', 'error'] }],
